@@ -1,1 +1,1 @@
-# ems-algasensors-temperature-monitoring
+# ems-algasensors-device-monitoring
